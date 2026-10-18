@@ -117,4 +117,6 @@ def write_gold_result(
         "row_count": len(result.rows),
         "rows": [[_json_value(v) for v in row] for row in result.rows],
     }
-    path.write_text(json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    path.write_text(
+        json.dumps(payload, indent=1, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n"
+    )
