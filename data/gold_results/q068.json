@@ -1,0 +1,16 @@
+{
+ "id": "q068",
+ "gold_sql_fingerprint": "cdb8ae353e2468eb",
+ "ordered": true,
+ "columns": [
+  "hour",
+  "n"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   16,
+   6675
+  ]
+ ]
+}

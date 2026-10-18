@@ -1,0 +1,16 @@
+{
+ "id": "q083",
+ "gold_sql_fingerprint": "d5f1770a4b1614bd",
+ "ordered": true,
+ "columns": [
+  "month",
+  "avg_score"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   6,
+   4.28
+  ]
+ ]
+}

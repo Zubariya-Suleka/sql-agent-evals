@@ -1,0 +1,32 @@
+{
+ "id": "q077",
+ "gold_sql_fingerprint": "70a271e361894c4d",
+ "ordered": false,
+ "columns": [
+  "payment_type",
+  "round"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "not_defined",
+   1.0
+  ],
+  [
+   "boleto",
+   1.0
+  ],
+  [
+   "debit_card",
+   1.0
+  ],
+  [
+   "voucher",
+   1.0
+  ],
+  [
+   "credit_card",
+   3.51
+  ]
+ ]
+}

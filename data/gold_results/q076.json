@@ -1,0 +1,18 @@
+{
+ "id": "q076",
+ "gold_sql_fingerprint": "e8d4dc1325700eba",
+ "ordered": true,
+ "columns": [
+  "year",
+  "month",
+  "n"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   2017,
+   11,
+   7544
+  ]
+ ]
+}

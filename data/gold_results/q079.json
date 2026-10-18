@@ -1,0 +1,24 @@
+{
+ "id": "q079",
+ "gold_sql_fingerprint": "d8ee32b3322104a6",
+ "ordered": false,
+ "columns": [
+  "customer_state",
+  "avg_freight"
+ ],
+ "row_count": 3,
+ "rows": [
+  [
+   "RR",
+   51.36
+  ],
+  [
+   "PB",
+   47.51
+  ],
+  [
+   "RO",
+   43.14
+  ]
+ ]
+}

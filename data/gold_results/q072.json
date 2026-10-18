@@ -1,0 +1,28 @@
+{
+ "id": "q072",
+ "gold_sql_fingerprint": "627c67980aa7cb8d",
+ "ordered": false,
+ "columns": [
+  "quarter",
+  "count"
+ ],
+ "row_count": 4,
+ "rows": [
+  [
+   1,
+   5262
+  ],
+  [
+   2,
+   9349
+  ],
+  [
+   3,
+   12642
+  ],
+  [
+   4,
+   17848
+  ]
+ ]
+}

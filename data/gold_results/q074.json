@@ -1,0 +1,32 @@
+{
+ "id": "q074",
+ "gold_sql_fingerprint": "be41608b83c0e161",
+ "ordered": false,
+ "columns": [
+  "review_score",
+  "round"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   1,
+   21.3
+  ],
+  [
+   2,
+   16.7
+  ],
+  [
+   3,
+   14.3
+  ],
+  [
+   4,
+   12.3
+  ],
+  [
+   5,
+   10.7
+  ]
+ ]
+}

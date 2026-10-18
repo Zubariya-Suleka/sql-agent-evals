@@ -1,0 +1,32 @@
+{
+ "id": "q063",
+ "gold_sql_fingerprint": "213467deb5d54b5b",
+ "ordered": false,
+ "columns": [
+  "customer_state",
+  "late_pct"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "AL",
+   23.9
+  ],
+  [
+   "MA",
+   19.7
+  ],
+  [
+   "PI",
+   16.0
+  ],
+  [
+   "CE",
+   15.3
+  ],
+  [
+   "SE",
+   15.2
+  ]
+ ]
+}

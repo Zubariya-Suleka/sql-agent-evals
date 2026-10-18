@@ -1,0 +1,16 @@
+{
+ "id": "q067",
+ "gold_sql_fingerprint": "cd96ca34e54577a1",
+ "ordered": true,
+ "columns": [
+  "day",
+  "n"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   "Monday",
+   16196
+  ]
+ ]
+}

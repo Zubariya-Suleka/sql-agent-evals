@@ -1,0 +1,44 @@
+{
+ "id": "q065",
+ "gold_sql_fingerprint": "4c0e6512805e8baf",
+ "ordered": false,
+ "columns": [
+  "order_status",
+  "count"
+ ],
+ "row_count": 8,
+ "rows": [
+  [
+   "shipped",
+   1107
+  ],
+  [
+   "unavailable",
+   609
+  ],
+  [
+   "invoiced",
+   314
+  ],
+  [
+   "created",
+   5
+  ],
+  [
+   "approved",
+   2
+  ],
+  [
+   "processing",
+   301
+  ],
+  [
+   "delivered",
+   96478
+  ],
+  [
+   "canceled",
+   625
+  ]
+ ]
+}
