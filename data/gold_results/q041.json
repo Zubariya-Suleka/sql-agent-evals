@@ -1,0 +1,32 @@
+{
+ "id": "q041",
+ "gold_sql_fingerprint": "a288ce4b71a1ce8c",
+ "ordered": false,
+ "columns": [
+  "product_category_name_english",
+  "avg_price"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "computers",
+   1098.34
+  ],
+  [
+   "small_appliances_home_oven_and_coffee",
+   624.29
+  ],
+  [
+   "home_appliances_2",
+   476.12
+  ],
+  [
+   "agro_industry_and_commerce",
+   342.12
+  ],
+  [
+   "musical_instruments",
+   281.62
+  ]
+ ]
+}

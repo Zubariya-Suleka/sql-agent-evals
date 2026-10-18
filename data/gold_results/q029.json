@@ -1,0 +1,32 @@
+{
+ "id": "q029",
+ "gold_sql_fingerprint": "3aa0b964948c580e",
+ "ordered": false,
+ "columns": [
+  "product_category_name_english",
+  "n"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "bed_bath_table",
+   11115
+  ],
+  [
+   "health_beauty",
+   9670
+  ],
+  [
+   "sports_leisure",
+   8641
+  ],
+  [
+   "furniture_decor",
+   8334
+  ],
+  [
+   "computers_accessories",
+   7827
+  ]
+ ]
+}

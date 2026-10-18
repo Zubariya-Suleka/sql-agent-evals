@@ -1,0 +1,32 @@
+{
+ "id": "q054",
+ "gold_sql_fingerprint": "f177850542144934",
+ "ordered": false,
+ "columns": [
+  "product_category_name_english",
+  "freight"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "bed_bath_table",
+   204693.04
+  ],
+  [
+   "health_beauty",
+   182566.73
+  ],
+  [
+   "furniture_decor",
+   172749.3
+  ],
+  [
+   "sports_leisure",
+   168607.51
+  ],
+  [
+   "computers_accessories",
+   147318.08
+  ]
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "id": "q059",
+ "gold_sql_fingerprint": "dfb8afed54dde167",
+ "ordered": true,
+ "columns": [
+  "customer_state",
+  "avg_payment"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   "PB",
+   248.33
+  ]
+ ]
+}

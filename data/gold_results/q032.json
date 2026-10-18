@@ -1,0 +1,16 @@
+{
+ "id": "q032",
+ "gold_sql_fingerprint": "f6c3392d782cb6f3",
+ "ordered": true,
+ "columns": [
+  "seller_state",
+  "revenue"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   "SP",
+   8753396.21
+  ]
+ ]
+}

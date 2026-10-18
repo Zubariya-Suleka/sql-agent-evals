@@ -1,0 +1,24 @@
+{
+ "id": "q044",
+ "gold_sql_fingerprint": "016f44288a788178",
+ "ordered": false,
+ "columns": [
+  "customer_state",
+  "total"
+ ],
+ "row_count": 3,
+ "rows": [
+  [
+   "SP",
+   5998226.96
+  ],
+  [
+   "RJ",
+   2144379.69
+  ],
+  [
+   "MG",
+   1872257.26
+  ]
+ ]
+}

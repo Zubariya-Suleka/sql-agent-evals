@@ -1,0 +1,32 @@
+{
+ "id": "q048",
+ "gold_sql_fingerprint": "cb343cdfceb11af9",
+ "ordered": false,
+ "columns": [
+  "seller_city",
+  "n"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "sao paulo",
+   24588
+  ],
+  [
+   "ibitinga",
+   6565
+  ],
+  [
+   "curitiba",
+   2722
+  ],
+  [
+   "santo andre",
+   2711
+  ],
+  [
+   "belo horizonte",
+   2414
+  ]
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "id": "q037",
+ "gold_sql_fingerprint": "9a0f329d4134bad9",
+ "ordered": false,
+ "columns": [
+  "customer_city",
+  "n"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "sao paulo",
+   15540
+  ],
+  [
+   "rio de janeiro",
+   6882
+  ],
+  [
+   "belo horizonte",
+   2773
+  ],
+  [
+   "brasilia",
+   2131
+  ],
+  [
+   "curitiba",
+   1521
+  ]
+ ]
+}
