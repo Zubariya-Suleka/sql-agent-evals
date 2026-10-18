@@ -1,0 +1,24 @@
+{
+ "id": "q020",
+ "gold_sql_fingerprint": "a16ecd026fe6f8a0",
+ "ordered": false,
+ "columns": [
+  "customer_state",
+  "n"
+ ],
+ "row_count": 3,
+ "rows": [
+  [
+   "RR",
+   45
+  ],
+  [
+   "AP",
+   67
+  ],
+  [
+   "AC",
+   77
+  ]
+ ]
+}

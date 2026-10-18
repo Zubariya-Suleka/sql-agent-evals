@@ -1,0 +1,14 @@
+{
+ "id": "q010",
+ "gold_sql_fingerprint": "af50081ffaba9633",
+ "ordered": false,
+ "columns": [
+  "count"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   844
+  ]
+ ]
+}

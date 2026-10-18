@@ -1,0 +1,32 @@
+{
+ "id": "q016",
+ "gold_sql_fingerprint": "93ae3fbe0ea9d38e",
+ "ordered": false,
+ "columns": [
+  "seller_city",
+  "n"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "sao paulo",
+   694
+  ],
+  [
+   "curitiba",
+   127
+  ],
+  [
+   "rio de janeiro",
+   96
+  ],
+  [
+   "belo horizonte",
+   68
+  ],
+  [
+   "ribeirao preto",
+   52
+  ]
+ ]
+}

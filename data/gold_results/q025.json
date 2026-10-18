@@ -1,0 +1,32 @@
+{
+ "id": "q025",
+ "gold_sql_fingerprint": "084fb2733035292d",
+ "ordered": false,
+ "columns": [
+  "seller_state",
+  "n"
+ ],
+ "row_count": 5,
+ "rows": [
+  [
+   "SP",
+   1849
+  ],
+  [
+   "PR",
+   349
+  ],
+  [
+   "MG",
+   244
+  ],
+  [
+   "SC",
+   190
+  ],
+  [
+   "RJ",
+   171
+  ]
+ ]
+}

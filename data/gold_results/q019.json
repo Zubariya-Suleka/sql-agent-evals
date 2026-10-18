@@ -1,0 +1,16 @@
+{
+ "id": "q019",
+ "gold_sql_fingerprint": "f0c2414d0228383a",
+ "ordered": false,
+ "columns": [
+  "min",
+  "max"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   "2016-09-04",
+   "2018-10-17"
+  ]
+ ]
+}

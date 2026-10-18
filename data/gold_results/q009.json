@@ -1,0 +1,16 @@
+{
+ "id": "q009",
+ "gold_sql_fingerprint": "2ae1feb1822de5cf",
+ "ordered": false,
+ "columns": [
+  "product_weight_g",
+  "count"
+ ],
+ "row_count": 1,
+ "rows": [
+  [
+   40425,
+   1
+  ]
+ ]
+}
