@@ -19,3 +19,7 @@ lint:
 fmt:
     uv run ruff check --fix .
     uv run ruff format .
+
+# run and verify gold queries (all, or some ids) and store their results
+build-gold *ids:
+    uv run python scripts/build_gold.py {{ids}}
